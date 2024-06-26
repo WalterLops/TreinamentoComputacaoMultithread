@@ -1,0 +1,49 @@
+# Arquivos de Byte de Depuração
+*.pdb
+
+# Arquivos de Byte de Código Objeto
+*.obj
+*.exe
+*.dll
+*.cache
+*.suo
+
+# Arquivos de Configuração do Usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de Saída
+bin/
+obj/
+log/
+logs/
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Outros arquivos e pastas
+.DS_Store
+_ReSharper*/
+Ankh.NoLoad
+
+# Arquivos de Projeto VS Code
+.vscode/
+
+# Arquivos de Configuração do Visual Studio
+.vs/
+*.opendb
+*.VC.db
+
+# Pasta de Teste de Cobertura
+TestResults/
+
+# Arquivos de Build
+*.log
+*.sql
+*.sqlite
+
+# IDE JetBrains Rider .idea folder
+.idea/
